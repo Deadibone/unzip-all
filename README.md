@@ -19,3 +19,6 @@ unzip_all [-d] [-h]
 ## Why did I write this shell script
 Because I have too many zip files
 
+## Is this useless?
+Technically yes, because you can just run ```unzip "*.zip"```
+BUT, this program can delete the zip files too!
