@@ -11,3 +11,9 @@ unzip_all [-d] [-h]
 
 ## Why I wrote this program
 Because I have too many zip files
+
+## How to install
+1. Download ```installer.sh```
+2. go to the location where the script is downloaded
+3. run ```chmod +x installer.sh```
+4. run ```sudo ./installer.sh```
